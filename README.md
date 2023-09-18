@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello there! 👋
 
-<!--
-**donggyunhuh/donggyunhuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=HeoDonggyun)
 
-Here are some ideas to get you started:
+I'm Heo Donggyun, a student majoring in Information Telecommunication Engineering at Incheon National University, aspiring to be a developer. 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Technologies
+
+- C
+- Java
+
+## Projects
+
+1. **Awesome Project 1**
+   - Flower Ordering Web Platform
+   - Technologies and tools used: java, spring, springboot
+
+
+
+## Contact
+
+- Email: yje07052@naver.com
+- blog: [@HeoDonggyun](https://donggyunhuh.github.io/)
+
+
+## GitHub Stats
+
+![Heo Donggyun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeoDonggyun&show_icons=true&theme=dark)
+
+Thank you! 😄
