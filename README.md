@@ -4,10 +4,6 @@
 
 I'm Heo Donggyun, a student majoring in Information Telecommunication Engineering at Incheon National University, aspiring to be a developer. 🌟
 
-## Languages and Technologies
-
-- C
-- Java
 
 ## Projects
 
