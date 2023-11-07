@@ -11,7 +11,7 @@ I'm Heo Donggyun, a student majoring in Information Telecommunication Engineerin
 
 ## Projects
 
-1. **Awesome Project 1**
+1. **Project 1**
    - Flower Ordering Web Platform
    - Technologies and tools used: java, spring, springboot
 
@@ -22,9 +22,3 @@ I'm Heo Donggyun, a student majoring in Information Telecommunication Engineerin
 - Email: yje07052@naver.com
 - blog: [@HeoDonggyun](https://donggyunhuh.github.io/)
 
-
-## GitHub Stats
-
-![Heo Donggyun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeoDonggyun&show_icons=true&theme=dark)
-
-Thank you! 😄
